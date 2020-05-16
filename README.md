@@ -4,8 +4,8 @@ This is my first year to learn and know about machine learning and deep learning
 From all kinds of websites I get them collected in this repository.<br>
 If any question,my email: zeyanjie@sjtu.edu.cn<br>
 ## Catalog
-###1.DeepLearningFromScratch
+### 1.DeepLearningFromScratch
 a collection of material about deep learning<br>
-###2.tensorflow2的中文汉字手写体识别<br>
+### 2.tensorflow2的中文汉字手写体识别<br>
 Click this url to get it.<br>
 https://github.com/ZYJesus/ocrcn_tf2.git
