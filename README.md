@@ -10,3 +10,4 @@ a collection of material about deep learning<br>
 Click this url to get it.<br>
 https://github.com/ZYJesus/ocrcn_tf2.git
 ### 3.ocr手写汉字识别
+https://github.com/ZYJesus/ocr_TDR.git
