@@ -11,3 +11,5 @@ Click this url to get it.<br>
 https://github.com/ZYJesus/ocrcn_tf2.git
 ### 3.ocr手写汉字识别
 https://github.com/ZYJesus/ocr_TDR.git
+### 4.tensorflow官方教程
+https://tf.wiki/zh_hans/basic/installation.html
