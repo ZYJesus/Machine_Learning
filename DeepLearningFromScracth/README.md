@@ -10,4 +10,5 @@ It's a realization of convolutional neural network.<br>
 Attention:This two file should be included in the same folder.<br>
 Before run them,you can read this arcticle first.<br>
 https://cuijiahua.com/blog/2018/12/dl-10.html<br>
-
+## 3.mnistWithTensorflow2.py
+use tensorflow2 and mnist dataset.<br>
