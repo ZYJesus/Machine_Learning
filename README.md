@@ -12,8 +12,8 @@ https://github.com/ZYJesus/ocrcn_tf2.git
 ### 3.ocr手写汉字识别
 https://github.com/ZYJesus/ocr_TDR.git
 ### 4.tensorflow官方教程
-五星推荐。<br>
+Recommandation.<br>
 https://tf.wiki/zh_hans/basic/installation.html
-### 5.廖雪峰的python教程,内容全面
+### 5.廖雪峰的python教程（内容很全面）
 https://www.liaoxuefeng.com/wiki/1016959663602400
 
